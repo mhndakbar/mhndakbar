@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhndakbar
-- 👀 I’m interested in big data
+- 👀 I’m interested in building projects
 - 🌱 I’m currently learning RoR
 
 <!---
