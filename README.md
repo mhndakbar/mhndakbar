@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhndakbar
-- 👀 I’m interested in building projects
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning RoR
 
 <!---
