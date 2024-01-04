@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhndakbar
-- 👀 I’m a web developmer
+- 👀 I’m a web developer
 - 🌱 I’m currently working with RoR
 
 <!---
