@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhndakbar
 - 👀 I’m a web developer
-- 🌱 I’m currently working with RoR
+- 🌱 more about me here: https://mhndakbar.github.io/my-portfolio/
 
 <!---
 mhndakbar/mhndakbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
