@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhndakbar
-- 👀 I’m a web developer
+- 👀 I’m a web developer who's passionate about UX/UI design
 - 🌱 more about me here: https://mhndakbar.github.io/my-portfolio/
 
 <!---
